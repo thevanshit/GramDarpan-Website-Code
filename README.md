@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # GramDarpan - Adarsh Gram Development Monitoring Platform
 
 A comprehensive, beautiful, and modern web application for monitoring Adarsh Gram development progress across India. Built with React, TypeScript, Tailwind CSS, and modern web technologies.
 
-## 🌟 Features
+## Features
 
 ### Public Pages (Transparency)
 - **Interactive Village Map**: Color-coded heatmap showing development progress
@@ -26,7 +25,7 @@ A comprehensive, beautiful, and modern web application for monitoring Adarsh Gra
 - **AI Integration**: Budget prediction, auto-prioritization, deadline forecasting
 - **Beautiful UI/UX**: Modern, clean, and attractive interface
 
-## 🚀 Technology Stack
+## Technology Stack
 
 - **Frontend**: React 18 + TypeScript
 - **Build Tool**: Vite
@@ -37,7 +36,7 @@ A comprehensive, beautiful, and modern web application for monitoring Adarsh Gra
 - **Icons**: Lucide React
 - **Notifications**: React Hot Toast
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -58,7 +57,7 @@ A comprehensive, beautiful, and modern web application for monitoring Adarsh Gra
 4. **Open in browser**
    Navigate to `http://localhost:3000`
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 - **Primary**: Blue tones for main actions and branding
@@ -78,7 +77,7 @@ A comprehensive, beautiful, and modern web application for monitoring Adarsh Gra
 - **Charts**: Beautiful data visualizations
 - **Animations**: Smooth transitions and micro-interactions
 
-## 🔐 Demo Credentials
+## Demo Credentials
 
 Use these demo accounts to explore different user roles:
 
@@ -90,14 +89,14 @@ Use these demo accounts to explore different user roles:
 | State Official | state@gramdarpan.com | password | Full Access |
 | Ministry | ministry@gramdarpan.com | password | Full Access |
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive and optimized for:
 - **Desktop**: Full-featured experience with all capabilities
 - **Tablet**: Adapted layouts for medium screens
 - **Mobile**: Mobile-first design for field workers
 
-## 🗺️ Page Structure
+## Page Structure
 
 ### Public Pages
 - `/` - Homepage with hero section and features
@@ -118,7 +117,7 @@ The application is fully responsive and optimized for:
 - `/dashboard/state` - State-level analytics
 - `/dashboard/ministry` - National oversight
 
-## 🎯 Key Features Implemented
+## Key Features Implemented
 
 ### 1. Beautiful Homepage
 - Hero section with gradient backgrounds
@@ -152,7 +151,7 @@ The application is fully responsive and optimized for:
 - Responsive navigation
 - Toast notifications
 
-## 🛠️ Development
+## Development
 
 ### Available Scripts
 - `npm run dev` - Start development server
@@ -176,7 +175,7 @@ src/
 └── index.css         # Global styles
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Colors
 Modify the color palette in `tailwind.config.js`:
@@ -199,7 +198,7 @@ animation: {
 }
 ```
 
-## 🚀 Deployment
+## Deployment
 
 1. **Build the application**
    ```bash
@@ -216,7 +215,7 @@ animation: {
 
 This project is developed for the Adarsh Gram Yojana initiative and is intended for government use.
 
-## 🤝 Contributing
+## Contributing
 
 This is a prototype demonstration. For production use, additional features would include:
 - Backend API integration
@@ -225,7 +224,7 @@ This is a prototype demonstration. For production use, additional features would
 - Performance optimizations
 - Comprehensive testing
 
-## 📞 Support
+## Support
 
 For questions or support regarding this prototype, please refer to the documentation or contact the development team.
 
