@@ -226,10 +226,6 @@ This is a prototype demonstration. For production use, additional features would
 
 ## Support
 
-For questions or support regarding this prototype, please refer to the documentation or contact the development team.
-
----
+For questions or support regarding this prototype, please refer to the documentation.
 
 **GramDarpan** - Transforming Rural India through Technology and Transparency
-# GramDarpan-Website-Code
-A website which connects the agencies, ministries and feild workers all to the same platform, provides accountability and transparency, It is also the part of SIH Problem Statement SIH25151.
